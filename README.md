@@ -174,7 +174,7 @@ Or open in Android Studio and click "Run".
 
 ## 📹 Demo Video
 
-**[▶️ Watch Demo Video on Google Drive](https://drive.google.com/file/d/1wsyElCmMSSNtERZ28KjlFBNPTnz5dk7h/view?usp=sharing)**
+**[▶️ Watch Demo Video on Google Drive](https://drive.google.com/file/d/1zlqJG0X2qGkS8oEmNTPoLNV6zPAyjXET/view?usp=sharing)**
 
 The demo showcases:
 - Email input with validation
