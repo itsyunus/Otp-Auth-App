@@ -174,9 +174,9 @@ Or open in Android Studio and click "Run".
 
 ## 📹 Demo Video
 
-https://github.com/user-attachments/assets/lokal-app.mp4
+[▶️ Watch Demo Video](./lokal-app.mp4)
 
-*(See `lokal-app.mp4` in the repository root)*
+*Click the link above or download `lokal-app.mp4` from the repository root to view the demo.*
 
 ## 📝 License
 
