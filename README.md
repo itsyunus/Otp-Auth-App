@@ -174,9 +174,14 @@ Or open in Android Studio and click "Run".
 
 ## 📹 Demo Video
 
-[▶️ Watch Demo Video](./lokal-app.mp4)
+**[▶️ Watch Demo Video on Google Drive](https://drive.google.com/file/d/1wsyElCmMSSNtERZ28KjlFBNPTnz5dk7h/view?usp=sharing)**
 
-*Click the link above or download `lokal-app.mp4` from the repository root to view the demo.*
+The demo showcases:
+- Email input with validation
+- OTP generation and 60-second countdown
+- OTP verification with attempt tracking
+- Session screen with live duration timer
+- Logout functionality
 
 ## 📝 License
 
